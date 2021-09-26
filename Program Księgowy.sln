@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Program Księgowy", "Program Księgowy.csproj", "{86180941-F9DF-4143-89C1-7DED5C6A158D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{86180941-F9DF-4143-89C1-7DED5C6A158D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86180941-F9DF-4143-89C1-7DED5C6A158D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86180941-F9DF-4143-89C1-7DED5C6A158D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86180941-F9DF-4143-89C1-7DED5C6A158D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E0ED8D0F-75D3-4C29-8932-9FA59E8B53B0}
+	EndGlobalSection
+EndGlobal
